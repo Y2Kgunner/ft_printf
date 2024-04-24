@@ -27,3 +27,10 @@ int ft_printf(const char *format, ...);
 - `%x`: Prints numbers in hexadecimal lowercase format
 - `%X`: Prints numbers in hexadecimal uppercase format
 - `%%`: Prints a percent sign
+
+## Knowledge Gained
+
+- Deeper understanding of printf()
+- Variadic functions in C
+- Testing and debugging
+- Accurate parsing of function parameters
